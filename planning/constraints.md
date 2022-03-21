@@ -1,30 +1,41 @@
-# Constraints
+# Constrains :
 
-Some boundaries around our project.
+---
 
-## External
+## Time :
 
-<!--
-  constraints coming from the outside that your team has no control over. these may include:
-  - project deadlines
-  - UI design or color schemes
-  - technologies (sometimes a client will tell you what to use)
--->
+> Time don’t stop for anyone. Time is essential part of project.
 
-## Internal: Involuntary
+---
 
-<!--
-  constraints that come from within your team, and you have no control over. they may include:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+## Technology :
 
-## Internal: Voluntary
+> Without Practice technology is our restriction but with Practice you will be
+> perfect in technology.
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+---
+
+## Availability :
+
+> Availability is most important part of project. With everyone’s presence
+> project work will run smoothly.
+
+---
+
+## Issues :
+
+> In the project issues will occur. But Yes ! We can fix it.
+
+---
+
+## Communication :
+
+> Depends on time and availability if both are solve then communication problem
+> is solved.
+
+---
+
+## Dependency :
+
+> Team is all about being dependent on each other. Hence we need to work on our
+> own part as soon as possible so we do not create dependency for others.
