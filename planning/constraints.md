@@ -1,41 +1,38 @@
 # Constrains
 
----
+Some boundaries around our project.
 
-## Time
+## External
 
-> Time don’t stop for anyone. Time is essential part of project.
+- Time
 
----
+  > Time don’t stop for anyone. Time is essential part of project.
 
-## Technology
-
-> Without Practice technology is our restriction but with Practice you will be
-> perfect in technology.
-
----
-
-## Availability
-
-> Availability is most important part of project. With everyone’s presence
-> project work will run smoothly.
+- Availability
+  > Availability is most important part of project. With everyone’s presence
+  > project work will run smoothly.
 
 ---
 
-## Issues
+## Internal: Involuntary
 
-> In the project issues will occur. But Yes ! We can fix it.
+- Technology
+
+  > Without Practice technology is our restriction but with Practice you will be
+  > perfect in technology.
+
+- Issues
+  > In the project issues will occur. But Yes ! We can fix it.
 
 ---
 
-## Communication
+## Internal: Voluntary
 
-> Depends on time and availability if both are solve then communication problem
-> is solved.
+- Communication
 
----
+  > Depends on time and availability if both are solve then communication
+  > problem is solved.
 
-## Dependency
-
-> Team is all about being dependent on each other. Hence we need to work on our
-> own part as soon as possible so we do not create dependency for others.
+- Dependency
+  > Team is all about being dependent on each other. Hence we need to work on
+  > our own part as soon as possible so we do not create dependency for others.
