@@ -13,12 +13,6 @@ Some boundaries around our project.
   > Availability is most important part of project. With everyone’s presence
   > project work will run smoothly.
 
-- Distance
-
-  > All of our team members live far away making it difficult to reunite
-  > physically. Server issues: Problems in servers or any remote problems with
-  > the platforms we use might cause delay in our deadlines.
-
 - Hand of god
   > Any event that we cannot control like weather, accidents, etc. that might
   > disrupt our workflow therefore, our deadline.
@@ -42,7 +36,7 @@ Some boundaries around our project.
   > difficult to have a single work technology to use.
 
 - Troubleshooting
-  > Issues we might encounter while working in the workflow due to missuse or
+  > Issues we might encounter while working in the workflow due to missuses or
   > mistake of commands or workflow. Can be solved but we need to invest time to
   > investigate.
 
