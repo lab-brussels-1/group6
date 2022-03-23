@@ -1,4 +1,22 @@
-# (project name)
+# All About Tree
+
+    Help The Earth Plant A Tree...
+    Save The Tree Save The Nature...
+    Trees Are Root Of Our Existence...
+
+![all about tree](./public/all%20about%20tree%20.webp)
+
+---
+
+> This project is to rebuild the _All About Trees_ site in a new repository as a
+> group using the Planning and Collaborating workflows.
+
+Our Team members are
+
+- [Ricardo](https://github.com/TheRick88)
+- [Dnyandeo](https://github.com/Dnyandeo33)
+- [Inna](https://github.com/inna9Z)
+- [Zeynep](https://github.com/Melati5)
 
 <!-- describe your project -->
 
@@ -9,6 +27,8 @@
 1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
 2. `cd template-markdown`
 3. `npm install`
+
+---
 
 ## Code Quality Checks
 
@@ -28,6 +48,8 @@
   on all HTML files in the given path and writes the report to
   `/accessibility_report`
 
+---
+
 ## Continuous Integration (CI)
 
 When you open a PR to `main`/`master` in your repository, GitHub will
@@ -37,6 +59,8 @@ this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
 If the linting fails, you will not be able to merge the PR. You can double check
 that your code will pass before pushing by running the code quality scripts
 locally.
+
+---
 
 ## Repo Setup
 
