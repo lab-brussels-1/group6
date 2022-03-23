@@ -18,7 +18,8 @@ A simple little website about trees.
 ## Group Conventions for The Project
 
 - Issues will be named with the same name of the tasks:
-  ### Tasks
+
+### Tasks
 
 1. Constraints
 2. User-persona
