@@ -15,6 +15,36 @@ A simple little website about trees.
 
 ---
 
+## Group Conventions for The Project
+
+- Issues will be named with the same name of the tasks:
+  ### Tasks
+
+1. Constraints
+2. User-persona
+3. Communications
+4. Backlog
+5. Design
+6. Development-strategy
+7. Retrospective
+8. Main README MD
+
+- PR should be named as 'issue they are linked to + the word PR' (for example
+  "3 - backlog file creation PR")
+
+- All files and folders should be named with the lowercase letters. No weird
+  characters. Inside of spaces, use '-' (e.g.: user-persona.md)
+
+- An issue will be created with the question template with the error messages
+  and the steps you followed to fix it.
+
+- Every PR should be linked to your specific issue and a co-worker should be
+  assigned for review.
+
+- Always make sure to keep your local repo updated with git pull origin master
+
+---
+
 <!--
   all issues for this user story have a `for: site title` label
 
