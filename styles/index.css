@@ -59,8 +59,7 @@ nav ul li:hover {
 }
 
 .intro {
-  background-image: url("/public/tree1.jpg");
-  background-repeat: no-repeat;
+  background-color: darkseagreen;
   background-size: cover;
   margin: 60px 10px;
   padding: 30px;
