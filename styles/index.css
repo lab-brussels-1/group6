@@ -1,1 +1,90 @@
-@import url("./something.css");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-image: linear-gradient(147deg, #49bc6b 0, #a4ca49 100%);
+  height: 100vh;
+}
+
+.logo img {
+  width: 120px;
+  border-radius: 50px;
+  margin-top: 30px;
+  cursor: pointer;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 150px;
+}
+
+nav ul {
+  margin-top: 60px;
+  margin-right: 150px;
+}
+
+nav ul li {
+  display: inline;
+  margin: 30px;
+  font-weight: 500;
+  font-size: 1.3em;
+  cursor: pointer;
+  color: white;
+  text-transform: uppercase;
+}
+
+nav ul li:hover {
+  color: black;
+  transition: 0.2s;
+}
+
+.title {
+  text-align: center;
+}
+
+h1 {
+  font-size: 5em;
+  text-transform: uppercase;
+  margin-top: 50px;
+  color: #f0fff0;
+}
+
+.title p {
+  font-size: 2em;
+  color: black;
+}
+
+.intro {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(/public/tree1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 60px 10px;
+  padding: 30px;
+  justify-content: center;
+  text-align: center;
+  font-size: 1.5em;
+  line-height: 1.5em;
+  border-radius: 20px;
+  color: white;
+}
+
+button {
+  margin-left: 27em;
+  font-size: 1.5em;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  color: green;
+  background-color: white;
+}
+
+button:hover {
+  background-color: #a4ca49;
+  color: white;
+  transition: 0.2s;
+}
