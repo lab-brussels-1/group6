@@ -18,11 +18,13 @@ Our Team members are
 - [Inna](https://github.com/inna9Z)
 - [Zeynep](https://github.com/Melati5)
 
-<!-- describe your project -->
+<!-- describe your project
 
 ## Getting Started
 
-<!-- a guide to using this repository -->
+-->
+
+<!-- a guide to using this repository
 
 1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
 2. `cd template-markdown`
@@ -75,3 +77,5 @@ locally.
     merging_"
   - The `master`/`main` branch must "_Require require branches to be up to date
     before merging_"
+
+-->
