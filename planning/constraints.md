@@ -14,10 +14,13 @@ Some boundaries around our project.
   > project work will run smoothly.
 
 - Hand of god
+
   > Any event that we cannot control like weather, accidents, etc. that might
   > disrupt our workflow therefore, our deadline.
 
----
+- Language
+  > It is difficult to express your ideas fluently when you are not using your
+  > native language.
 
 ## Internal: Involuntary
 
@@ -39,8 +42,6 @@ Some boundaries around our project.
   > Issues we might encounter while working in the workflow due to missuses or
   > mistake of commands or workflow. Can be solved but we need to invest time to
   > investigate.
-
----
 
 ## Internal: Voluntary
 
