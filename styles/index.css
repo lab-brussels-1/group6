@@ -5,7 +5,7 @@
 }
 
 header {
-  background-image: linear-gradient(147deg, #49bc6b 0, #a4ca49 100%);
+  background-color: #a4ca49;
   height: 100vh;
 }
 
@@ -59,7 +59,7 @@ nav ul li:hover {
 }
 
 .intro {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/public/tree1.jpg);
+  background-image: url("/public/tree1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   margin: 60px 10px;
