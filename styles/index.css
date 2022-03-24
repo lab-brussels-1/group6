@@ -59,8 +59,7 @@ h1 {
 }
 
 .intro {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(/public/tree1.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/public/tree1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   margin: 60px 10px;
