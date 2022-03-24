@@ -5,7 +5,7 @@ investigation.**
 
 ---
 
-![group6](assets/group6design.jpg)
+![group6](assets/gp6svg.svg)
 
 ---
 
