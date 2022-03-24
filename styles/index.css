@@ -46,7 +46,7 @@ nav ul li:hover {
   text-align: center;
 }
 
-h1 {
+.title h1 {
   font-size: 5em;
   text-transform: uppercase;
   margin-top: 50px;
@@ -94,7 +94,7 @@ button:hover {
   margin: 10px;
 }
 
-h2 {
+.info h2 {
   text-align: center;
   padding: 20px;
   font-size: 40px;
