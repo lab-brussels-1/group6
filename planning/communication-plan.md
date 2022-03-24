@@ -38,7 +38,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | ---------- | :---------: | :--------: | :---------: | :---------: | :--------: | :---------: |
 | _Dnyandeo_ | 10am - 12pm | 10am - 4pm | 10am - 11pm | 10am - 11pm | 10am - 4pm | 10am - 11pm |
 | _Inna_     | 7pm - 11pm  | 7pm - 11pm | 7pm - 11pm  | 7pm - 11pm  | 7pm - 11pm | 7pm - 11pm  |
-| _Ricardo_  |  7pm - 2am  | 7pm - 11pm |  7pm - 2am  |  7pm - 2am  | 7pm - 11pm | 7pm - 11pm  |
+| _Ricardo_  |  7pm - 2am  | 7pm - 11pm |  7pm - 2am  |  1pm - 6pm  | 7pm - 11pm | 7pm - 11pm  |
 | _Zeynep_   | 7pm - 11pm  | 7pm - 11pm | 7pm - 11pm  | 7pm - 11pm  | 7pm - 11pm | 7pm - 11pm  |
 
 ### How many hours everyone has per day

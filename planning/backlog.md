@@ -4,19 +4,22 @@
 
 Home page
 
-- As a user I can read: that planting a tree is one of the positive impact on
-  the environment.
-- As a user I can read: about benefits of trees and why have to plant it.
+- As a user I can read that planting a tree has a positive impact on the
+  environment.
+- As a user I can read about the benefits of trees and why have to plant them.
 
 ## Should Haves
 
-- You should can donation money for seeding which can be planted in the park and
-  forest.
-- The companies a ready to work with a slogan "save trees save life" .
+- The website could improve if it had more options for visitors to donate more
+  to save the trees.
+- The website could improve if we could list all of the companies who are
+  already working out there to save the trees.
 
 ## Could Haves
 
-- Volunteers who can help with trees planting.
+- IT would be amazing if we could have a page dedicated to volunteers who would
+  like to donate their time to plant and save the trees.
 
-- Shop online were you can buy something and money from selling will donate for
-  seeding trees .
+- It would be amazing if we could have a shop online linked to the website so
+- visitors could buy merch and the money raised would be towards saving the
+  trees.
