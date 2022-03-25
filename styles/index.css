@@ -5,14 +5,10 @@
 }
 
 header {
-  background-image: linear-gradient(147deg, #49bc6b 0, #a4ca49 100%);
+  background-color: #a4ca49;
   height: 100vh;
 }
 
-.body {
-  background-image: linear-gradient(147deg, #49bc6b 0, #a4ca49 100%);
-  height: 100vh;
-}
 .logo img {
   width: 120px;
   border-radius: 50px;
@@ -50,7 +46,7 @@ nav ul li:hover {
   text-align: center;
 }
 
-h1 {
+.title h1 {
   font-size: 5em;
   text-transform: uppercase;
   margin-top: 50px;
@@ -63,9 +59,7 @@ h1 {
 }
 
 .intro {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(/public/tree1.jpg);
-  background-repeat: no-repeat;
+  background-color: darkseagreen;
   background-size: cover;
   margin: 60px 10px;
   padding: 30px;
@@ -78,7 +72,7 @@ h1 {
 }
 
 button {
-  margin-left: 37em;
+  margin-left: 27em;
   font-size: 1.5em;
   padding: 10px 20px 10px 20px;
   border-radius: 20px;
@@ -93,48 +87,51 @@ button:hover {
   transition: 0.2s;
 }
 
-.spaced-items {
-  display: flex;
-  flex-direction: row;
-  align-content: center;
-  justify-content: space-around;
-  padding-top: 2%;
-  padding-bottom: 2%;
+/* ........ header css done........... */
+
+.info {
+  margin: 10px;
 }
 
-.centered-items {
-  display: flex;
-  flex-direction: row;
+.info h2 {
+  text-align: center;
+  padding: 20px;
+  font-size: 40px;
+}
+
+.info p {
   justify-content: center;
-  padding-top: 2%;
-  padding-bottom: 2%;
+  text-align: center;
+  font-size: 1.2em;
+  line-height: 1.5em;
+  margin: 20px;
 }
 
-.top-divider {
-  border-style: solid none none none;
-}
-
-.footer {
-  font-size: 25px;
-  text-transform: uppercase;
-  margin-top: 50px;
-  color: #f0fff0;
+.row-images {
+  display: flex;
+  justify-content: space-around;
 }
 
 .row-images img {
-  display: inline-flex;
-  padding-left: 40px;
-  padding-top: 50px;
   width: 23%;
-  height: 20%;
 }
 
-.main-article {
-  font-family: "Quicksand", sans-serif;
-  font-size: 27px;
+.donation {
+  margin-top: 30px;
+}
+
+footer {
+  background-color: black;
+  height: 70px;
+  margin-top: 50px;
+}
+
+.foot p {
+  text-align: center;
   padding-top: 20px;
-  padding-right: 60px;
-  padding-bottom: 60px;
-  padding-left: 50px;
-  text-align: left;
+}
+
+.foot a {
+  color: white;
+  font-size: 20px;
 }

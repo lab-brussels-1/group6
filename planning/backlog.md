@@ -21,5 +21,5 @@ Home page
   like to donate their time to plant and save the trees.
 
 - It would be amazing if we could have a shop online linked to the website so
-- visitors could buy merch and the money raised would be towards saving the
+- visitors could buy products and the money raised would be towards saving the
   trees.
