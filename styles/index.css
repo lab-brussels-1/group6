@@ -1,12 +1,13 @@
 html {
   scroll-behavior: smooth;
 }
-
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
+
+/* header css start */
 
 header {
   background-color: #a4ca49;
@@ -91,18 +92,9 @@ button:hover {
   transition: 0.2s;
 }
 
-.donation {
-  margin-left: 1em;
-  margin-right: 1em;
-  font-size: 1.5em;
-  padding: 10px 20px 10px 20px;
-  border-radius: 20px;
-  cursor: pointer;
-  color: green;
-  background-color: white;
-}
+/* header css end */
 
-/* ........ header css done........... */
+/* main articale css start */
 
 .info {
   margin: 10px;
@@ -122,6 +114,10 @@ button:hover {
   margin: 20px;
 }
 
+/* main articale css end */
+
+/* img css start */
+
 .row-images {
   display: flex;
   justify-content: space-around;
@@ -131,6 +127,9 @@ button:hover {
   width: 23%;
 }
 
+/* img css start */
+
+/* footer css start */
 footer {
   background-color: black;
   height: 70px;
@@ -152,6 +151,18 @@ footer {
   justify-content: center;
   padding: 2%;
 }
+
+.donation {
+  margin-left: 1em;
+  margin-right: 1em;
+  font-size: 1.5em;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  color: green;
+  background-color: white;
+}
+/* footer css start */
 
 @keyframes bounce {
   0%,
