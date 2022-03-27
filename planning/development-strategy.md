@@ -90,6 +90,8 @@ trees.
 - style the text
 - styling to format the list
 
+---
+
 ### Donate button and footer 
 
 - Button is working and properly styled
