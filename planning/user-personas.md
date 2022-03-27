@@ -7,7 +7,7 @@ ENVIRONMENT".
 
 ---
 
-<!-- a persona -->
+<!-- a persona 
 
 - **Bio**: The role of trees in life , the benefit of trees, how many trees on
   our planet.
@@ -16,6 +16,8 @@ ENVIRONMENT".
   of them .
 - **Scenario 1**: Figure out what we can do to save more trees and why we need
   trees.
+
+-->
 
 ---
 
